@@ -24,7 +24,7 @@ window.addEventListener('load', function() {
 				
 		
 	}
-	
+	//gumb
 	document.querySelector("#dodajGumb").addEventListener("click", dodajOpomnik);
 	//Posodobi opomnike
 	var posodobiOpomnike = function() {
